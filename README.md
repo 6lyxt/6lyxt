@@ -17,6 +17,10 @@ Github統計:
 [![6lyxt's github stats](https://github-readme-stats.vercel.app/api?username=6lyxt&show_icons=true&theme=radical)](https://instagram.com/lyxt.png)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6lyxt)](https://instagram.com/lyxt.png)
+
+
+
 プロフィールビュー:
 
 ![](https://komarev.com/ghpvc/?username=6lyxt&color=brightgreen)
