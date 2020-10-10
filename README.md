@@ -3,7 +3,6 @@
 
 
 * 🔞歳: 15
-* 💫興味：development / moto cycling
 * 💻好きなプログラミング言語：js / java
 
 
