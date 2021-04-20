@@ -5,7 +5,6 @@ learning rn:
 - typescript
 - react
 - angular
-- silverstripe
 - vue
 
 git views:
