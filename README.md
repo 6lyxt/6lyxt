@@ -1,2 +1,2 @@
-- full stack @ [url="https://cic.at"]cic[/url]
-- full stack @ [url="https://gommehd.net"]GommeHD.net[/url]
+- full stack @ [cic](https://www.cic.at/)
+- full stack @ [GommeHD.net](https://www.gommehd.net/)
